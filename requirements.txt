@@ -1,0 +1,11 @@
+jupyter
+nltk
+urllib3
+spacy
+unidecode
+pandas
+gensim
+beautifulsoup4
+justext
+scikit-learn
+matplotlib
